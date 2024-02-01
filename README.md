@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manishVermaBlazeclan
+- 👋 Hi, I’m Manish Verma
 - 👀 I’m interested Developing exciting applications which helps users.
 - 🌱 I’m currently exploring on UI frameworks and cloud technologies
 - 💞️ I’m looking to collaborate on open source libraries/framework
